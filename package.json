@@ -1,38 +1,38 @@
 {
-  "name": "filmoteka",
-  "version": "1.0.0",
-  "description": "",
-  "homepage": "https://tanetti.github.io/filmoteka",
-  "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tanetti/filmoteka.git"
-  },
-  "keywords": [],
-  "author": "Volodymyr Dudka <tanetti22@gmail.com>",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.27.2",
-    "embla-carousel": "^7.0.1",
-    "embla-carousel-autoplay": "^7.0.2",
-    "lodash.debounce": "^4.0.8",
-    "lodash.throttle": "^4.1.1",
-    "modern-normalize": "^1.1.0"
-  },
-  "devDependencies": {
-    "@parcel/packager-raw-url": "^2.6.0",
-    "@parcel/packager-xml": "^2.6.0",
-    "@parcel/transformer-sass": "^2.6.0",
-    "@parcel/transformer-webmanifest": "^2.6.0",
-    "@parcel/transformer-xml": "^2.6.0",
-    "buffer": "^6.0.3",
-    "parcel": "^2.6.0",
-    "parcel-reporter-clean-dist": "^1.0.4",
-    "posthtml-include": "^1.7.4",
-    "process": "^0.11.10"
-  },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+    "name": "filmoteka",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://Igor432.github.io/filmoteka",
+    "scripts": {
+        "start": "parcel src/*.html",
+        "build": "parcel build src/*.html --public-url /filmoteka/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tanetti/filmoteka.git"
+    },
+    "keywords": [],
+    "author": "Igor K. <igomar0602@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "embla-carousel": "^7.0.1",
+        "embla-carousel-autoplay": "^7.0.2",
+        "lodash.debounce": "^4.0.8",
+        "lodash.throttle": "^4.1.1",
+        "modern-normalize": "^1.1.0"
+    },
+    "devDependencies": {
+        "@parcel/packager-raw-url": "^2.6.0",
+        "@parcel/packager-xml": "^2.6.0",
+        "@parcel/transformer-sass": "^2.6.0",
+        "@parcel/transformer-webmanifest": "^2.6.0",
+        "@parcel/transformer-xml": "^2.6.0",
+        "buffer": "^6.0.3",
+        "parcel": "^2.6.0",
+        "parcel-reporter-clean-dist": "^1.0.4",
+        "posthtml-include": "^1.7.4",
+        "process": "^0.11.10"
+    },
+    "browserslist": "> 0.5%, last 2 versions, not dead"
 }
